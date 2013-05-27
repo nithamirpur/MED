@@ -1,4 +1,4 @@
 MED
 ===
 
-For NIT Hamirpur ECE student
+For NIT Hamirpur MED student
